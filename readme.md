@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://talk-save-track.lovable.app/" target="_blank">
-    <img src="https://github.com/marcosrmaciel42-png/App_consultor_financeiro/blob/main/logo%20app.png?raw=true" alt="FinChat Logo" width="100%">
+    <img src="https://github.com/marcosrmaciel42-png/App_consultor_financeiro/blob/main/logo%20app.png?raw=true" alt="FinChat Logo" width="50%">
   </a>
   <br />
   <p align="center">
